@@ -1,0 +1,1 @@
+A collection of assignments from a networking class, a client and server simulated through Npcap loopback adapter
